@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated Full-Stack Developer from Lahore, 
 
 With a solid foundation in both front-end and back-end technologies, I aim to build seamless user experiences while diving into the fascinating world of data analytics and machine learning.
 
-<img alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-programming&psig=AOvVaw0vdQX_mtQFmLEimbwiduJC&ust=1745783951945000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODzx5S-9owDFQAAAAAdAAAAABAE">
+<img alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-programming&psig=AOvVaw0vdQX_mtQFmLEimbwiduJC&ust=1745783951945000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODzx5S-9owDFQAAAAAdAAAAABAE](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952do5jm09kt0oveoev9j9mafzz899p8camp6cz2v1j&ep=v1_gifs_search&rid=200w.gif&ct=g)">
 
 ## 💻 Skills & Tech Stack
 - **Languages**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
