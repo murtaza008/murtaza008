@@ -68,6 +68,19 @@ I am currently diving deep into **Python** to enhance my knowledge in **Data Sci
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murtaza008&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtaza008&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza008&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
 ## 💻 Let's Code Together
 
 ![Coding Icon](https://img.shields.io/badge/Code-Let's%20Build%20Together-0073e6?style=flat-square&logo=code&logoColor=white)
