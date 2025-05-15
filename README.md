@@ -77,23 +77,11 @@ I am currently diving deep into **Python** to enhance my knowledge in **Data Sci
 
 ---
 
-## 💻 Let's Code Together
-
-![Coding Icon](https://img.shields.io/badge/Code-Let's%20Build%20Together-0073e6?style=flat-square&logo=code&logoColor=white)
-
----
-
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/murtaza-mazhar-31a083288) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 - [Portfolio](https://murtaza008.github.io/Portfolio/) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)
 - [Gmail](mailto:murtazamazhar7798@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-
----
-
-## 🌱 Let's Build Together
-
-Feel free to explore my projects and reach out if you're looking for collaboration, or if you'd like to talk about **Full-Stack Development**, **Data Science**, **Machine Learning**, or **AI**. I’m always open to new opportunities and learning experiences!
 
 ---
 
