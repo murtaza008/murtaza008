@@ -51,14 +51,14 @@ With a solid foundation in both front-end and back-end technologies, I aim to bu
 ### [Modern Phonebook Web App](http://phonebook-murtaza008.free.nf/registration/register.php)
 A dynamic, responsive phonebook web application built with **PHP** and **MySQL**. Manage contacts efficiently with features like contact creation, deletion, and search.
 
-### [Todo Master](https://murtaza008.github.io/todo-react-app/)
-A sleek, **React**-based to-do list application with task prioritization, real-time syncing, and a user-friendly interface for optimal productivity.
-
 ### [Expense Tracker](https://murtaza008.github.io/expense-tracker/)
 Track your daily spending using this simple, user-friendly **React** app.
 
 ### [Weather App](https://murtaza008.github.io/weather-app/)
-A weather application built with **React** and OpenWeather API, displaying live weather updates.
+A weather application built with **React** and Open-Meteo API, displaying live weather updates.
+
+### [Todo Master](https://murtaza008.github.io/todo-react-app/)
+A sleek, **React**-based to-do list application with task prioritization, real-time syncing, and a user-friendly interface for optimal productivity.
 
 ---
 
