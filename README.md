@@ -3,8 +3,9 @@
 <h3 align="center">🚀 MERN Stack Developer | Web Application Builder | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+Full-Stack+Web+Apps+with+MERN;Transforming+Ideas+into+Solutions;Passionate+about+Clean+and+Scalable+Code" alt="Typing SVG" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Apps+with+MERN;Transforming+Ideas+into+Solutions;Passionate+about+Clean+and+Scalable+Code" alt="Typing SVG" />
 </p>
+
 
 ---
 
