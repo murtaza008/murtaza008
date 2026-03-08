@@ -20,23 +20,72 @@
 
 ## 💻 Tech Stack
 
-<!-- (Keep your tech stack table as is) -->
+<table align="center">
+  <!-- Languages -->
+  <tr><th colspan="4" align="center">👨‍💻 Programming Languages</th></tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- MERN -->
+  <tr><th colspan="4" align="center">⚙️ MERN Stack</th></tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+  </tr>
+
+  <!-- Databases -->
+  <tr><th colspan="4" align="center">🗃️ Databases</th></tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Frontend -->
+  <tr><th colspan="4" align="center">🎨 UI & Styling</th></tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+  </tr>
+
+  <!-- Tools -->
+  <tr><th colspan="4" align="center">🛠️ Tools & Platforms</th></tr>
+  <tr align="center">
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Projects That Speak
 
-🔹 [**Modern Phonebook App**](http://phonebook-murtaza008.free.nf/registration/register.php)  
-📱 Contact management system with **authentication**, built with **PHP + MySQL**
+🔹 [**Driver Monitoring System**](https://murtaza008.github.io/driver-monitoring-system-frontend/)  
+🚗 A real-time system to monitor driver behavior and improve road safety using **React + Node.js**
 
-🔹 [**Expense Tracker (React)**](https://murtaza008.github.io/expense-tracker/)  
-💸 Minimal and responsive app to manage daily expenses
+🔹 [**Chat App**](https://chat-app-frontend-indol-nu.vercel.app/login)  
+💬 Real-time messaging app with **WebSocket support** and secure login
 
-🔹 [**Weather App (React + API)**](https://murtaza008.github.io/weather-app/)  
-☁️ Fetches live weather data using **Open-Meteo API**
+🔹 [**TaskFlow**](https://taskflow-frontend-rouge-xi.vercel.app/login)  
+📋 Task management platform for teams with **drag-and-drop workflow and notifications**
 
-🔹 [**Todo Master**](https://murtaza008.github.io/todo-react-app/)  
-📝 Polished and functional **React-based** to-do list app
+🔹 [**Resume Ranking System**](https://resume-ranking-azure.vercel.app/)  
+📄 AI-powered resume evaluation platform to **analyze and rank candidate resumes**
 
 ---
 
