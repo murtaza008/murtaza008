@@ -78,10 +78,10 @@
 🔹 [**Driver Monitoring System**](https://murtaza008.github.io/driver-monitoring-system-frontend/)  
 🚗 A real-time system to monitor driver behavior and improve road safety using **React + Node.js**
 
-🔹 [**Chat App**](https://chat-app-frontend-indol-nu.vercel.app/login)  
+🔹 [**Chat App**](https://chat-app-frontend-indol-nu.vercel.app)  
 💬 Real-time messaging app with **WebSocket support** and secure login
 
-🔹 [**TaskFlow**](https://taskflow-frontend-rouge-xi.vercel.app/login)  
+🔹 [**TaskFlow**](https://taskflow-frontend-rouge-xi.vercel.app)  
 📋 Task management platform for teams with **drag-and-drop workflow and notifications**
 
 🔹 [**Resume Ranking System**](https://resume-ranking-azure.vercel.app/)  
