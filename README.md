@@ -1,72 +1,69 @@
 <h1 align="center">Hi 👋, I'm Murtaza Mazhar</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Web Application Builder | Problem Solver</h3>
+<h3 align="center">🚀 MERN Stack Developer | Full Stack Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Apps+with+MERN;Transforming+Ideas+into+Solutions;Passionate+about+Clean+and+Scalable+Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+World+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murtaza008&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=murtaza008&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-# 💼 About Me
+# 💫 About Me
 
-🎯 Passionate **MERN Stack Developer** from Lahore, Pakistan  
-🌱 Focused on building **fast, scalable, and responsive web applications**  
-⚡ Experienced with **MongoDB, Express.js, React.js, Node.js**  
-📬 Email: **murtazamazhar7798@gmail.com**  
-🌐 Portfolio: **https://murtaza008.github.io/Portfolio**
+🎯 Passionate **MERN Stack Developer** from Pakistan  
+💻 I build **modern, scalable and responsive full-stack web applications**  
+🚀 Experienced in **MongoDB, Express.js, React.js, Node.js**  
+📚 Always learning new technologies and improving problem-solving skills  
+
+📧 Email: **murtazamazhar7798@gmail.com**  
+🌐 Portfolio: **https://murtaza008.github.io/portfolio**
 
 ---
 
 # 🚀 Tech Stack
 
 ### 👨‍💻 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=js,python,php,c,cpp"/>
 </p>
 
-### ⚙️ MERN Stack
-
+### ⚡ MERN Stack
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
 </p>
 
 ### 🎨 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap"/>
 </p>
 
-### 🗃 Databases
-
+### 🗄 Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
 ### 🛠 Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ### 💬 Chat App
-Real-time messaging platform with authentication and modern UI
+Real-time messaging application with authentication and modern UI
 
 🔗 https://chat-app-frontend-indol-nu.vercel.app
 
 ---
 
 ### 📋 TaskFlow
-Task management system with workflow tracking and productivity tools
+Full-stack task management system for productivity and workflow tracking
 
 🔗 https://taskflow-frontend-rouge-xi.vercel.app
 
@@ -79,26 +76,15 @@ AI-powered system to analyze and rank resumes automatically
 
 ---
 
-# 📚 Current Focus
-
-🧠 Building **advanced MERN stack applications**  
-🔗 Creating **REST APIs with Node.js & MongoDB**  
-🌍 Deploying projects on **Vercel and cloud platforms**
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtaza008&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=murtaza008&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murtaza008&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murtaza008&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza008&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza008&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -106,7 +92,15 @@ AI-powered system to analyze and rank resumes automatically
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=murtaza008&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=murtaza008&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/murtaza008/murtaza008/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -114,21 +108,23 @@ AI-powered system to analyze and rank resumes automatically
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/murtaza-mazhar-31a083288">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://murtaza008.github.io/Portfolio">
+<a href="https://murtaza008.github.io/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 <a href="mailto:murtazamazhar7798@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-✨ *"Create the future you want to see through code and innovation."*
+✨ <i>"Create the future you want to see through code."</i>
 </p>
